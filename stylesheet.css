@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+.imageContainer {
+    position: relative;
+    background-image: url(pattern.jpeg);
+}
+h2{
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+
+}
+strong{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+p{
+    font-family: Helvetica;
+}
+
+h3{
+    font-family:Helvetica;
+}
+
+h4{
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+h5{
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
